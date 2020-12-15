@@ -4,10 +4,6 @@ Specializations - System programming & Algorithm ― Data structures and Algorit
 
 by Alexandre Gautier, Software Engineer at Holberton, Inc.
 
-Ongoing project - started 06-15-2020, must end by 06-29-2020 (in 5 days) - you're done with 0% of tasks.
-
-Checker was released at 06-22-2020 12:00 AM
-
 QA review fully automated.
 Resources
 
